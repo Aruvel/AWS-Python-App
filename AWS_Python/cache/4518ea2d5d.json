@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "question": "A company makes forecasts each quarter to decide how to optimize operations to meet expected demand. The company uses\nML models to make these forecasts. \nAn AI practitioner is writing a report about the trained ML models to provide transparency and explainability to company\nstakeholders. \nWhat should the AI practitioner include in the report to meet the transparency and explainability requirements?",
+    "options": [
+      "Code for model training",
+      "Partial dependence plots (PDPs) Most Voted",
+      "Sample data for training",
+      "Model convergence tables"
+    ],
+    "correct_answers": 
