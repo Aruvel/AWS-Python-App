@@ -1,8 +1,0 @@
-{
-  "randomize_questions": true,
-  "show_explanations": true,
-  "timer_enabled": false,
-  "time_per_question": 90,
-  "exam_time_limit": 90,
-  "theme": "dark"
-}
